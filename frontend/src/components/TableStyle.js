@@ -11,7 +11,7 @@ const Styles = styled.div `
           border-bottom: 0;
         }
       }
-    }
+    } 
     th,
     td {
       margin: 0;

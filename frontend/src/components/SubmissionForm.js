@@ -19,7 +19,7 @@ const SubmissionForm = () => {
         <option value="">Select SE practice...</option>
         <option value="TDD">TDD</option>
         <option value="Mob Programming">Mob Programmin</option>
-      </select>
+      </select> 
 
       <p>{result}</p>
       <input type="submit" />

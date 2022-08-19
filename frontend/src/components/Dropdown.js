@@ -11,7 +11,7 @@ import SEPractices from "../dummydata/SEPractices.js"
              <option value="">Select an SE Practice </option>
                 {optionItems}
              </select>
-         </div>
+         </div> 
     )
   }
   export default Dropdown;
